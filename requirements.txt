@@ -1,0 +1,15 @@
+numpy
+ml_collections
+matplotlib
+scipy
+scikit-learn
+argparse
+pandas
+tqdm
+SimpleITK
+hausdorff
+nibabel
+numba
+scikit-image
+ipywidgets
+opencv-python
